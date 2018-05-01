@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    
+}
+
+#table {
+    background-color: lime;
+    border: solid brown;
+    border-radius: 30px;
+}
+
+#messages {
+    padding: 50px;
+}
+
+
+
+.hold1 {
+    /*height:30%;*/
+    background-color: lightgreen;
+    border-radius: 20px;
+    border: solid lawngreen;
+    height: 75px;
+}
+
+.hold2 {
+    /*height:30%;*/
+    background-color: lightgreen;
+    border-radius: 20px;
+    border: solid lawngreen;
+    height: 75px;
+}
+.buttons {
+    text-align: center;
+    padding: 20px;
+}
+
+#messages {
+    display: block;
+}
+
+img {
+    width: 48px;
+    height: 58px;
+    margin: 5px;
+}
+
